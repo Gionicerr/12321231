@@ -1,0 +1,70 @@
+GDRE Tools v2.7.0-beta.2
+Windows 10.0.26200, AMD Radeon 780M Graphics, vulkan
+Opening file: C:/Program Files (x86)/Steam/steamapps/common/YourOnlyMoveIsHUSTLE/YourOnlyMoveIsHUSTLE.pck
+Multiple passing candidates for bytecode version 13:
+3.5.0-stable (a7aad78), 3.2.0-stable (5565f55)
+Choosing only one that matches engine version: 3.5.0-stable (a7aad78).
+Loaded 2538 imported files
+Detected Engine Version: 3.5.1
+Detected Bytecode Revision: 3.5.0-stable (a7aad78)
+Verified 5452 files, no errors detected!
+Extracted 5452 files, no errors detected!
+Recreating plugin configs...
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+WARNING: Mesh uses old surface format, which is deprecated (and loads slower). Consider re-importing or re-saving the scene. Path: ""
+   at: FakeMesh::_set (modules\gdsdecomp\compat\fake_mesh.cpp:458)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+ERROR: Parameter "_image_compress_etc2_func" is null.
+   at: Image::_compress_from_channels (core\io\image.cpp:2998)
+WARNING: Mesh uses old surface format, which is deprecated (and loads slower). Consider re-importing or re-saving the scene. Path: "res://.import/character.dae-d0811ca915fae73b20c90e1040b6e2c7.scn::1"
+   at: ArrayMesh::_set (scene\resources\mesh.cpp:1369)
+WARNING: Animation uses old 'transform' track types, which is deprecated (and loads slower). Consider re-importing or re-saving the resource.
+   at: Animation::_set (scene\resources\animation.cpp:113)
+WARNING: Skeleton uses old pose format, which is deprecated (and loads slower). Consider re-importing or re-saving the scene.
+   at: Skeleton3D::_set (scene\3d\skeleton_3d.cpp:113)
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     502
+Scripts not decompiled:                 0
+Imported resources for export session:  2538
+Successfully converted:                 2538
+Lossy:                                  14
+Rewrote metadata:                       2
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 3.5.1 (Steam edition) to edit the project.
+GodotSteam can be found here: https://codeberg.org/GodotSteam/GodotSteam/releases 
+
+*******************************************************************************
+
